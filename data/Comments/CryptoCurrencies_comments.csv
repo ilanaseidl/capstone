@@ -1,0 +1,100 @@
+,comment
+0,"Go Proof of reputation one of a kind protocol..
+
+Founded in 2017, GoChain started with an idea to fix the blockchain scaling problem while bringing an enterprise team and business philosophy to the space. We hit our goal by providing a public network that handles 100x the volume of Ethereum while remaining 100% Ethereum compatible.
+
+We are partnered with AWS, IBM, and Microsoft and serve clients ranging from innovative, high impact startups to Fortune 200 companies like Dish Network.
+
+10 million market cap proof reputation a disrupter in crypto. New highs coming for GO
+
+[https://gochain.io/about/](https://gochain.io/about/)"
+1,"""Won't"".
+
+Yeah, well you don't really get any say in the matter frankly."
+2,"Crypto overall is a big risk, so what are they waiting for?"
+3,"We need Decentralized exchanges now more than ever. Outsiders will test these centralized hubs just to see how secure they are as this space grows bigger and bigger. 
+
+This goes a little more into depth: https://www.bitspark.io/blog-posts/dex-masterclass-101-centralised-exchanges-vs-decentralised-trading"
+4,And I KNOW those “analysts” don’t have a clue what it’s going to do.
+5,"Reason 1's ""nothing-at-stake"" problem has had solutions available for a long time now, [see for example Ethereum's strategy](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ#what-is-the-nothing-at-stake-problem-and-how-can-it-be-fixed). A validator that publishes a block on forked chain A can be punished for it on forked chain B, so they only get to pick one of the two chains to support even if their stake split when the fork happened.
+
+I'm not sure what Reason 2 is about. Stakers actually do risk their money and actually do have to do work to validate blocks, PoS is not a passive ""money just for having money"" scheme. And if an Ether owner is willing to give his money to the custody of a bank that will then stake it and earn more money off of it, why wouldn't they just give it to the custody of a staking pool and get the earned money for themselves?
+
+Reason 3 appears to depend on ""nothing-at-stake"" to be valid.
+
+Reason 4 is also kind of baffling. It argues that you can only know who is staking coins by referencing information that's on the blockchain itself, I think? Well, that's what blockchains are *for*, keeping track of who owns what. A 51% attacker still can't inject completely arbitrary transactions into the blockchain's state, they won't be properly signed and it'll be obviously invalid. Then they get slashed and they're not a 51% attacker any more.
+
+Reason 5 is the ""rich get richer"" argument, which actually is more of a problem for PoW than PoS because PoW has inherent economies of scale (a large PoW mining operation is more efficient and therefore earns more profit per hash). PoS stakers all get rewards exactly proportionate to the size of their stake, so the ""poor"" get rich exactly in proportion to the ""rich"" getting rich. It changes nothing, relatively speaking. Reason 5's other argument is that if a large portion of the circulating Ether gets locked up as stake then nobody will be able to buy enough to become significant stakers later on, but there are solutions to this that can be built into PoS as well. Ethereum's plan is to make the total staking rewards vary depending on how much of the total Ether supply is locked up in stakes, aiming to keep the total stake amount around 10% of the total Ether supply if I recall correctly.
+
+In summary, this appears to be arguing against a very primitive and naive version of Proof of Stake. The field has developed much more sophisticated implications that solve these problems, though."
+6,Vechain
+7,NXS
+8,tfd
+9,tfd
+10,"And you'd wonder how much they paid for this listing, if anything (Don't know if exchanges demanded that much pre 2016 for asset listings, guess not).   
+Just goes to show how much power these exchanges have, and that we need to stop this centralized behaviour, by moving over to decentralized trading. It's the only thing that will stop these exchanges doing what they do. Not only do we see massive exchange hacks, but we see these moves pretty much daily almost, and considering  we're in a BEAR market, it's sure is scary.   
+
+
+Been playing around with multiple DEX's as of lately, and some are harder to use that others, some are not even real DEX's (IDEX, Binanace, Waves, just to name a few who isn't truly decentralized). Blocknet and Komodo is 2 decent ones, and I'm sure both of these will get a ton of volume in the future, making these centralized exchanges obsolete in a way. That's my wish for this year at least, haha."
+11,It's more like the consequences of a childhood grudge that escalated into reckless actions affecting business.
+12,The link does not work for me - 404
+13,"IANAL or certified tax preparer but to my understanding current tax guidance only applies when you exchange one coin for another (or a token) or when you exchange those digital currencies to cash. If you are not realizing any gains then there is nothing to tax. Therefore when you sell those tokens on year 6, you will report the price you bought the tokens for and the price you sold them for and would be subject to long term capital gains once."
+14,Thank you
+15,"Haha well hey best of luck patching it up man, I’ll definitely have to check Brave out now"
+16,"Hey man, love the article. Just wanted to let you know that on your website on mobile, clicking the drop box at the top right hand corner takes you to a blank white page. I was trying to check out the site more but it kept doing that for me"
+17,"Hmm. Are you on iOS or Android? Because it's working for me on Brave browser in Android. Let me know. I'll get it fixed. 
+
+And thank you I appreciate the comments and the heads up about the bug!"
+18,"I took a guess and made a small tweak. Let me know if you're still having the same problem. 
+
+If you are still having the issue, could you possibly post a screenshot?"
+19,"No problem man. I’m on IOS safari, and I checked it’s still doing the same thing. I’ll post the screenshots for you"
+20,Hmm. Weird. I'll be looking for the screenshot then I'll try to fix it.
+21,Just had my girl check on her iPhone and it's working for her. That's so weird. Which iPhone do you have?
+22,I have a 6s plus
+23,"Btw, I just ran an emulator. I see what you're talking about. I'm going to get on trying to get that fixed. On the emulator after you click the menu button, if you swipe up like your scrolling down it should get you to the menu.
+
+Man that's a weird bug. This is going to be a pain in the ass haha."
+24,"I'll have to look into it more. Going to see if I can find some tools online to recreate Safari on a 6s. Btw, have you considered switching to Brave? It comes with an ad blocker built in, and if you opt in to their ads you can receive BAT tokens. https://treepi.me/friends/brave/
+
+If you're interested in reading more, you should be able to view all my posts at https://treepi.me/ I've only written about 8ish so far."
+25,"This should also speed up your loading times a bit. Plus the built-in adblocker blocks ads, trackers, and all that stuff. Been using it on my desktop and phone for over a year now. It's based on Chrome with some modifications."
+26,"If you're interested...one way to earn crypto is through using the Brave Browser. Essentially you'll see ads but you'll be rewarded with BAT tokens which you can then convert to BTC on an exchange. If you're interested in learning more, check out a video I made about it here: [https://youtu.be/uDgkfVeS0-Q](https://youtu.be/uDgkfVeS0-Q). Or if you're interested, you can download it [here](https://brave.com/hxi919)"
+27,"PS: Very poor = not alot to put into investments currently. Not,""I'm having trouble surviving"". I'd call it ""budgeted tightly"" on pay to pay. 
+
+My ""no effort passive income"" is enough to pay me maybe $3 a day or $90 monthly or my:
+
+$29/month public mobile phone plan 
+
+$13/month acanac home internet plan 
+
+And, total $48/month: Amazon prime, Basic Netflix, gym & Humble bundle monthly subscription
+
+the active effort can be like $8/hr... but unless its ""on my way"" or ""of interest to me"" just working an extra 4 hour shift a week or researching investments is a better use of time."
+28,r/firstworldproblems
+29,"I'm using both brave and crypto browser with research search engine on both
+
+The question how does a noob make $100 in cryptocurrency into $1000 fair currency... the starter way??"
+30,"Not helpful, 1st world people can still struggle"
+31,"Learn to trade. Mind you, it WILL take a while for you to be able to become profitable. Once you know what you're doing, you can leverage that $100 by trading on margin. But I honestly don't recommend trading on margin until you've become consistently profitable without margin for at least a few years."
+32,Enough about this scam
+33,"Gotta say, I'm looking forward to seeing how this impacts the market in the short term, and how it bodes for crypto in the long term."
+34,"Imagine having enough confidence that you have the wallet address correct and move 415M in one go, mind blowing."
+35,I've got a better story. Did you hear about the Nano whale that instantly moves _everything_ for 0 dollars?
+36,"""only"" five dollars."
+37,How is that possible
+38,"Half a billion dollars...transferred for the price of a big mac (with tax obviously)
+
+Impressive and daunting"
+39,$5 too much
+40,He probably copy and pastes like the rest of us
+41,"Yup, moved almost 4X the market cap at one go."
+42,What Nano whale lol
+43,Beat me to it
+44,"Yep, triple check with ten times proof read"
+45,"That's like moving 2 small countries, 4x times😂"
+46,"No you just copy and paste, it's really easy."
+47,Good on ya!
+48,Take that IRS....
+49,"Centralised, by the sound of it."
+50,I call bullshit
